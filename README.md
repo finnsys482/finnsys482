@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm @finnsys482 👋
 
-<!--
-**finnsys482/finnsys482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software dev from Singapore tinkering with backend systems, CLI utilities, and open-source infrastructure.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Building lightweight dev tools in Go and Python
+- 📦 Messing with containerized workflows using Docker
+- 📖 Learning distributed systems & edge runtimes
+- ⚙️ Refactoring my `init.lua` instead of sleeping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech & Tools
+- **Languages:** Go, Python, JavaScript/TypeScript
+- **Infra:** Docker, Linux, GitHub Actions
+- **Daily Driver:** Neovim (LazyVim setup)
+
+#### Connect
+- Open an issue or PR on any of my repos
+- Email: finnsys482@proton.me
